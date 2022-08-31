@@ -1,16 +1,24 @@
 h1{
-    color:008000FF;
+    font-weight: bold;
+
 }
-p{
-    color:00008BFF;
-    font-size: 40px;
-    font-family:sans-serif;
-    font-weight: 400;
-line-height: 1.5;
-    text-decoration: none;/*under line line-through over line*/
-    text-align: justify;/*left right center */
-    text-transform: uppercase;/*uppercase lowercase*/
-    font-style: italic;/*in nghiêng:v*/
-    background-color: black;
-    width: 500px;
+h2{
+    font-weight: bold;
+
+}
+span{
+    color: #ffffff;
+    background-color: red;
+}
+body{
+    text-align: justify;
+    width:650px;
+    margin:auto;
+
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: right;
 }
