@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+}
+.box{
+    background-color: green;
+    color: white;
+    height:auto;
+    width: 400px;
+
+}
+span{
+    color: red;
+}
+.div_left{
+    width: 200px;
+    float: left;
+    text-align: center;
+}
+.div_right{
+    width: 200px;
+    float: left;
+    text-align: center;
+}
+.email {
+    margin-top: 50px;
+}
+.phone {
+    margin-top: 50px;
+}
+button[type=submit]{
+margin-top: 30px;
+}
+
+header{
+    text-align: center;
+}
+body{
+    margin: 0 auto;
+    max-width: 400px;
+    padding: 0px;
+}
+div .phone{
+    margin-top: 20px;
+}
+input[type="text" i] {
+    padding: 10px 10px;
+}
+input[type="email" i] {
+    padding: 10px 114px;
+}
+input[type="number" i] {
+    padding: 10px 114px;
+}
